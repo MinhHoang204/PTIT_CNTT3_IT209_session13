@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Gradle cache
+.gradle/
+
+# Build artifacts
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+tmp/
+temp/
